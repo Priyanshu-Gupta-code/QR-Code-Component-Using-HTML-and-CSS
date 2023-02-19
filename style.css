@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: #d6e1f0;
+}
+
+.container {
+    width: 18.75rem;
+    margin: 8.75rem auto;
+    border-radius: 5%;
+    background-color: hsl(0, 0%, 100%);
+    padding: 1rem 0;
+}
+
+img {
+    width: 16.875rem;
+    height: auto;
+    border-radius: 5%;
+}
+
+.card-text {
+    padding: 0 30px;
+}
+
+.fist-paragraph p {
+    font-size: 1.125rem;
+    font-family: 'Outfit';
+    font-weight: 700;
+}
+
+.second-paragraph {
+    font-size: 1rem;
+    color: #777;
+    font-weight: 500;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
